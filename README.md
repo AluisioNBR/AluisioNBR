@@ -1,7 +1,55 @@
-<link rel="stylesheet" href="style.css">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&display=swap');
+
+    .code{
+        font-family: 'Source Code Pro', monospace;
+    }
+
+    #informations{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    #informations-button{
+        width: 30%;
+        padding:.5rem;
+        border-radius: 10%;
+
+        color: black;
+        background-color: whitesmoke;
+
+        cursor: pointer;
+    }
+
+    #informations-button:hover{
+        opacity: .8;
+    }
+
+    li{
+        cursor: default;
+    }
+
+    .not-list{
+        list-style: none;
+    }
+
+    .red{
+        color: #d84949;
+    }
+
+    .orange{
+        color: #d48a00;
+    }
+
+    .yellow{
+        color: #dada02;
+    }
+
+    .green{
+        color: #04ac04;
+    }
+</style>
 
 <h1 class="code">
     💻Hello, World!💻
