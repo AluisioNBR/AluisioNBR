@@ -1,27 +1,4 @@
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&display=swap');
-
-    .code{
-        font-family: 'Source Code Pro', monospace;
-    }
-
-    #informations{
-        display: flex;
-        align-items: center;
-        justify-content: space-evenly;
-    }
-
-    #informations-button{
-        width: 30%;
-        padding:.5rem;
-        border-radius: 10%;
-
-        color: black;
-        background-color: whitesmoke;
-
-        cursor: pointer;
-    }
-
     #informations-button:hover{
         opacity: .8;
     }
@@ -51,17 +28,17 @@
     }
 </style>
 
-<h1 class="code">
+<h1 style="@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&display=swap'); font-family: 'Source Code Pro', monospace;">
     💻Hello, World!💻
 </h1>
 
-Meu nome é Aluísio, tenho 17 anos, e minhas especialidades são <span class="code">HTML5, CSS3 e JS</span>!
+Meu nome é Aluísio, tenho 17 anos, e minhas especialidades são <span style="font-family: 'Source Code Pro', monospace;">HTML5, CSS3 e JS</span>!
 
 Estou sempre codando alguma coisa por aqui...
 
-<details><summary id="informations-button" class="not-list">Quer saber mais ? Clique aqui!</summary>
+<details><summary style="width: 30%; padding:.5rem; border-radius: 10%; color: black; background-color: whitesmoke; cursor: pointer;" class="not-list">Quer saber mais ? Clique aqui!</summary>
     <h3>Minhas Habilidades:</h3>
-    <div id="informations">
+    <div style="display: flex; align-items: center; justify-content: space-evenly;">
         <div>
             <ul>
                 <li class="yellow not-list">HTML5</li>
