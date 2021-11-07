@@ -1,6 +1,6 @@
-# 💻Hello, World!💻
+# 💻`Hello, World!`💻
 
-Meu nome é Aluísio, tenho 17 anos, e minhas especialidades são <em>HTML5, CSS3 e JS</em>!
+Meu nome é Aluísio, tenho 17 anos, e minhas especialidades são _`HTML5, CSS3 e JS`_!
 
 Estou sempre codando alguma coisa por aqui...
 
@@ -8,22 +8,22 @@ Estou sempre codando alguma coisa por aqui...
     <h3>Minhas Habilidades:</h3>
     <p><strong>Avançado > Médio > Iniciante > Básico</strong></p>
     <ul>
-        <li><em>HTML5</em> <strong>(Médio)</strong></li>
+        <li><code><em>HTML5</em></code> <strong>(Médio)</strong></li>
         <li>
-            <em>CSS3</em> <strong>(Médio)</strong>
+            <code><em>CSS3</em></code> <strong>(Médio)</strong>
             <ul>
-                <li><em>Less</em> <strong>(Iniciante)</strong></li>
+                <li><code><em>Less</em></code> <strong>(Iniciante)</strong></li>
             </ul>
         </li>
         <li>
-            <em>JavaScript</em> <strong>(Médio)</strong>
+            <code><em>JavaScript</em></code> <strong>(Médio)</strong>
             <ul>
-                <li><em>TypeScript</em> <strong>(Médio)</strong></li>
-                <li><em>jQuery</em> <strong>(Iniciante)</strong></li>
+                <li><code><em>TypeScript</em></code> <strong>(Médio)</strong></li>
+                <li><code><em>jQuery</em></code> <strong>(Iniciante)</strong></li>
             </ul>
         </li>
-        <li><em>Python</em> <strong>(Iniciante)</strong></li>
-        <li><em>Java</em> <strong>(Básico)</strong></li>
-        <li><em>ShellScript</em> <strong>(Básico)</strong></li>
+        <li><code><em>Python</em></code> <strong>(Iniciante)</strong></li>
+        <li><code><em>Java</em></code> <strong>(Básico)</strong></li>
+        <li><code><em>ShellScript</em></code> <strong>(Básico)</strong></li>
     </ul>
 </details>
