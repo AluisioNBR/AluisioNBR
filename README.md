@@ -1,34 +1,29 @@
 # 💻Hello, World!💻
 
-Meu nome é Aluísio, tenho 17 anos, e minhas especialidades são <span style="color: yellow;">HTML5, CSS3 e JS</span>!
+Meu nome é Aluísio, tenho 17 anos, e minhas especialidades são <em>HTML5, CSS3 e JS</em>!
 
 Estou sempre codando alguma coisa por aqui...
 
 <details><summary>Quer saber mais ? Clique aqui!</summary>
     <h3>Minhas Habilidades:</h3>
-    <p>
-        | <span style="color: red;">Básico</span> 
-        | <span style="color: orange;">Iniciante</span> 
-        | <span style="color: yellow;">Médio</span> 
-        | <span style="color: green;">Avançado</span> |
-    </p>
+    <p><strong>Avançado > Médio > Iniciante > Básico</strong></p>
     <ul>
-        <li style="color: yellow;">HTML5</li>
-        <li style="color: yellow;">
-            CSS3
+        <li><em>HTML5</em> <strong>(Médio)</strong></li>
+        <li>
+            <em>CSS3</em> <strong>(Médio)</strong>
             <ul>
-                <li style="color: orange;">Less</li>
+                <li><em>Less</em> <strong>(Iniciante)</strong></li>
             </ul>
         </li>
-        <li style="color: yellow;">
-            JavaScript
+        <li>
+            <em>JavaScript</em> <strong>(Médio)</strong>
             <ul>
-                <li style="color: yellow;">TypeScript</li>
-                <li style="color: orange;">jQuery</li>
+                <li><em>TypeScript</em> <strong>(Médio)</strong></li>
+                <li><em>jQuery</em> <strong>(Iniciante)</strong></li>
             </ul>
         </li>
-        <li style="color: orange;">Python</li>
-        <li style="color: red;">Java</li>
-        <li style="color: red;">ShellScript</li>
+        <li><em>Python</em> <strong>(Iniciante)</strong></li>
+        <li><em>Java</em> <strong>(Básico)</strong></li>
+        <li><em>ShellScript</em> <strong>(Básico)</strong></li>
     </ul>
 </details>
