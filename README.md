@@ -26,4 +26,9 @@ Estou sempre codando alguma coisa por aqui...
         <li><code><em>Java</em></code> <strong>(Básico)</strong></li>
         <li><code><em>ShellScript</em></code> <strong>(Básico)</strong></li>
     </ul>
+    <h3>Contato</h3>
+    <p>
+        <a href="mailto:lulu70638@gmail.com">Email</a><br>
+        <a href="https://www.linkedin.com/in/aluisio-netto-1721b4225/">LinkedIn</a>
+    </p>
 </details>
