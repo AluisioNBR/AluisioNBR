@@ -29,10 +29,8 @@ Estou sempre codando alguma coisa por aqui...
     <h3>Contato</h3>
     <p>
         <a href="mailto:lulu70638@gmail.com"><img src="./gmail.png"></a>
-        <a href="https://www.linkedin.com/in/aluisio-netto-1721b4225/"><img src="./linkedin.png"></a>
-        <a href="https://wa.me/5582996135900/"><img src="./whatsapp.png"></a> 
+        <a href="https://www.linkedin.com/in/aluisio-netto-1721b4225/"><img src="./linkedin.png"></a> 
     </p>
     <div>Gmail icon made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-    <div>LinkedIn icon made by<a href="https://www.flaticon.com/authors/riajulislam" title="riajulislam">riajulislam</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-    <div>Whatsapp icon made by <a href="https://www.flaticon.com/authors/vidyavidz" title="vidyavidz">vidyavidz</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <div>LinkedIn icon made by<a href="https://www.flaticon.com/authors/riajulislam" title="riajulislam">riajulislam</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> 
 </details>
