@@ -22,6 +22,12 @@ Estou sempre codando alguma coisa por aqui...
                 <li><code><em>jQuery</em></code> <strong>(Iniciante)</strong></li>
             </ul>
         </li>
+        <li>
+            <code><em>ReactJS</em></code><strong>(Médio)</strong>
+        </li>
+        <li>
+            <code><em>React Native</em></code><strong>(Iniciante)</strong>
+        </li>
         <li><code><em>Python</em></code> <strong>(Iniciante)</strong></li>
         <li><code><em>Java</em></code> <strong>(Básico)</strong></li>
         <li><code><em>ShellScript</em></code> <strong>(Básico)</strong></li>
