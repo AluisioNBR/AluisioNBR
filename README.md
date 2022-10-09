@@ -21,10 +21,10 @@ Meu nome é Aluísio, sou aspirante a Dev Full-stack! Atualmente tenho foco no F
 </div>
 
 <div>
-    <span style="margin: 4px">
+    <span>
         <img src="https://github-readme-stats.vercel.app/api?username=aluisionbr&count_private=true&show_icons=true&theme=react" alt="Github Stats" />
     </span>
-    <span style="margin: 4px">
+    <span>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluisionbr&theme=react&langs_count=10&layout=compact" alt="Top Langs">
     </span>
 </div>
