@@ -1,18 +1,18 @@
 <h1 align="center">
-    Hello, People! Welcome to my little piece of internet!
+    Olá, visitante! Seja bem-vindo!
 </h1>
 
 <div align="center">
     <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32px" height="32px" />
     <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32px" height="32px" />
-    <img title="Tailwindcss"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32px" height="32px" />
+    <img title="Tailwindcss"src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" width="32px" height="32px" />
     <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32px" height="32px" />
-    <img title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32px" height="32px"/>
+    <img title="Typescript" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="32px" height="32px"/>
     <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32px" height="32px" />
-    <img title="Nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="32px" height="32px" />
+    <img title="Nextjs" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="32px" height="32px" />
     <img title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32px" height="32px" />
-    <img title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32px" height="32px" />
-    <img title="Nestjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="32px" height="32px" />
+    <img title="Express" src="https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000" width="32px" height="32px" />
+    <img title="Nestjs" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" width="32px" height="32px" />
     <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32px" height="32px" />
     <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32px" height="32px" />
 </div>
@@ -20,7 +20,7 @@
 <br />
 
 <p align="center">
-👋🏾 Meu nome é Aluísio, sou aspirante a Dev Full-stack!
+👋🏾 Meu nome é Aluísio, sou desenvolvedor web!
 </p>
 
 <p align="center">
